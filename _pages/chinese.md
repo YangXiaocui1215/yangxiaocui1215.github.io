@@ -1,5 +1,5 @@
 ---
-title: "中文介绍"
+title: "Chinese"
 permalink: /chinese/
 author_profile: true
 ---
