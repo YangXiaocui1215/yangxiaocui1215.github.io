@@ -77,7 +77,7 @@ Qi Sun, Kun Huang, <u>Xiaocui Yang</u>, Pengfei Hong, Kun Zhang and Soujanya Por
 
 **SINN: A speaker influence aware neural network model for emotion detection in conversations**<br>
 Shi Feng, Jia Wei, Daling Wang, <u>Xiaocui Yang</u>, Zhenfei Yang, Yifei Zhang and Ge Yu.<br>
-*World Wide Web, 2021 (**J WWW 2021**)*, **CCF-B**.
+*World Wide Web, 2021 (**WWWJ 2021**)*, **CCF-B**.
 
 ## 2020
 
