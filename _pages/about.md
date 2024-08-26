@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am Xiaocui Yang (杨晓翠), a lecture at [Northeastern University (NEU), China](https://www.neu.edu.cn/). 
+I am Xiaocui Yang (杨晓翠), a lecture at [School of Computer Science and Engineering, Northeastern University (NEU), China](https://www.neu.edu.cn/). 
 
 ## Education
 
