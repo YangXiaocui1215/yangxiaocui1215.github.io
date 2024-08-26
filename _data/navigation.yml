@@ -27,7 +27,7 @@ main:
   # - title: "Blogs"
   #   url: /year-archive/
   
-  # - title: "Chinese"
-  #  url: /chinese/  
+  - title: "Chinese"
+    url: /chinese/  
   
   
