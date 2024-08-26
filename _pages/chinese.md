@@ -3,7 +3,7 @@ title: "个人简介"
 permalink: /chinese/
 author_profile: true
 ---
-**杨晓翠，女，博士，东北大学，讲师**  
+**杨晓翠，女，博士，东北大学计算机学院，讲师**  
 **电子邮箱：yangxiaocui@cse.neu.edu.cn**
 
 
