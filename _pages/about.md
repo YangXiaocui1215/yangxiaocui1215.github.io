@@ -9,15 +9,15 @@ redirect_from:
 ---
 
 
-I am Xiaocui Yang (杨晓翠), a lecture at [Northeastern University (NTU), China](https://www.neu.edu.cn/). 
+I am Xiaocui Yang (杨晓翠), a lecture at [Northeastern University (NEU), China](https://www.neu.edu.cn/). 
 
 ## Education
 
-2019.09-2024.07, Ph.D, supervised by Prof. Daling Wang, [Northeastern University (NTU), China](https://www.neu.edu.cn/)
+2019.09-2024.07, Ph.D, supervised by Prof. Daling Wang, [Northeastern University (NEU), China](https://www.neu.edu.cn/)
 
-2021.10-2023.10, Visting Ph. D (CSC), supervised by Prof. Soujanya Poria, [Singapore University of Technology and Design (SUTD), Singapore](https://www.sutd.edu.sg/)
+2021.10-2023.10, Visting Ph. D (CSC), supervised by Prof. Soujanya Poria, [Singapore University of Technology and Design (SUTD)](https://www.sutd.edu.sg/)
 
-2017.09-2019.07, Master, supervised by Prof. Daling Wang, [Northeastern University (NTU), China](https://www.neu.edu.cn/)
+2017.09-2019.07, Master, supervised by Prof. Daling Wang, [Northeastern University (NEU), China](https://www.neu.edu.cn/)
 
 2013.09-2017.06, Bachelor, [Shandong University of Science and Technology](https://www.sdust.edu.cn/)
 
