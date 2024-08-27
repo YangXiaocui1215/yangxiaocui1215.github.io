@@ -28,7 +28,7 @@ I am a member of NEU Data Mining group. NEU DM group belongs to Data Science and
 
 ## Research
 
-My research focuses on Natural Language Processing, Affective Computing, MUltimodal Sentiment Analysis. 
+My research focuses on Natural Language Processing, Affective Computing, Multimodal Sentiment Analysis. 
 
 I have published a total of 10 papers in conferences/journals such as ACL, ACM MM, COLING, IEEE TMM, ICASSP, and so on, with 5 of them as the first author. And other papers are underreviewed.
 If you are interested in discussing or collaborating with me, please feel free to contact me.
