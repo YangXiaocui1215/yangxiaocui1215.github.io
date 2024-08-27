@@ -7,7 +7,7 @@ author_profile: true
 
 **电子邮箱：yangxiaocui@cse.neu.edu.cn**<br>
 
-**课题组：东北大学数据挖掘课题组（王大玲老师、冯时老师、张一飞老师）。该课题组隶属于于戈教授领导的数据科学与大数据技术研究组。**<br>
+**课题组：[东北大学数据挖掘课题组](https://neu-datamining.github.io/DM-Group-chinese.htm)（王大玲老师、冯时老师、张一飞老师）。该课题组隶属于于戈教授领导的数据科学与大数据技术研究组。**<br>
 
 
 # 教育背景
