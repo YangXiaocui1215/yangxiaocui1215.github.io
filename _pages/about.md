@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am Xiaocui Yang (杨晓翠), a lecture at [School of Computer Science and Engineering, Northeastern University (NEU), China](https://www.neu.edu.cn/). 
+I am Xiaocui Yang (杨晓翠), a lecturer at [School of Computer Science and Engineering, Northeastern University (NEU), China](https://www.neu.edu.cn/). 
 I am a member of NEU Data Mining group. NEU DM group belongs to Data Science and Big Data Technology Group led by professor Ge Yu（于戈）.
 
 ## Lab
