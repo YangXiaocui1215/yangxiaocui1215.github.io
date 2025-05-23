@@ -48,7 +48,7 @@ If you are interested in discussing or collaborating with me, please feel free t
 <u>Xiaocui Yang</u>, Wenfang Wu, Shi Feng, Ming Wang, Daling Wang, Yang Li, Qi Sun, Yifei Zhang, Xiaoming Fu, Soujanya Poria.<br>
 *Information Fusion*, **SCI-Q1, Top**. <br>
 
-**Pixel-Level Reasoning Segmentation via Multi-turn Conversations.** [Paper](Pixel-Level Reasoning Segmentation via Multi-turn Conversations), [Code](https://github.com/ccccai239/PixelRIST).<br>
+**Pixel-Level Reasoning Segmentation via Multi-turn Conversations.** [Paper](https://arxiv.org/pdf/2502.09447), [Code](https://github.com/ccccai239/PixelRIST).<br>
 Dexian Cai, <u>Xiaocui Yang</u>, Yongkang Liu, Daling Wang, Shi Feng, Yifei Zhang, Soujanya Poria.<br>
 *The 63st Annual Meeting of the Association for Computational Linguistics (**ACL 2025**)*, **CCF-A**. <br>
 
