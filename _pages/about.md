@@ -92,7 +92,7 @@ Feihong Lu, <u>Xiaocui Yang</u>, Qian Li, Qingyun Sun, Ke Jiang, Cheng Ji, and J
 
 **PAPER: A Persona-Aware Chain-of-Thought Learning Framework for Personalized Dialogue Response Generation.**<br>
 Yameng Li, Shi Feng, Daling Wang, Yifei Zhang, <u>Xiaocui Yang</u>.<br>
-*The 13th CCF International Conference on Natural Language Processing and Chinese Computing (**NLPCC 2024**)*, **CCF-C**. <br>
+*The 13th CCF International Conference on Natural Language Processing and Chinese Computing, (**NLPCC 2024**)*, **CCF-C**. <br>
 
 ## 2023
 
