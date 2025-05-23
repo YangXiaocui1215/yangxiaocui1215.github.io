@@ -10,7 +10,7 @@ redirect_from:
 
 
 I am Xiaocui Yang (杨晓翠), a lecturer at [School of Computer Science and Engineering, Northeastern University (NEU), China](https://www.neu.edu.cn/). 
-I am a member of NEU Data Mining group. NEU DM group belongs to Data Science and Big Data Technology Group led by professor Ge Yu（于戈）.
+I am a member of NEU Data Mining group. NEU DM group belongs to Data Science and Big Data Technology Group led by Professor Ge Yu（于戈）.
 
 ## Lab
 [NEU-DataMining Lab](https://neu-datamining.github.io/)
@@ -21,7 +21,7 @@ I am a member of NEU Data Mining group. NEU DM group belongs to Data Science and
 
 2019.09-2024.07, Ph.D, supervised by Prof. Daling Wang, [Northeastern University (NEU), China](https://www.neu.edu.cn/)
 
-2021.10-2023.10, Visting Ph.D (CSC), supervised by Prof. Soujanya Poria, [Singapore University of Technology and Design (SUTD)](https://www.sutd.edu.sg/)
+2021.10-2023.10, Visiting Ph.D (CSC), supervised by Prof. Soujanya Poria, [Singapore University of Technology and Design (SUTD)](https://www.sutd.edu.sg/)
 
 2017.09-2019.07, Master, supervised by Prof. Daling Wang, [Northeastern University (NEU), China](https://www.neu.edu.cn/)
 
@@ -32,10 +32,10 @@ I am a member of NEU Data Mining group. NEU DM group belongs to Data Science and
 
 ## Research
 
-My research focuses on Natural Language Processing, Affective Computing, Multimodal Sentiment Analysis. 
+My research focuses on Natural Language Processing, Affective Computing, Multimodal Sentiment Analysis, ...
 
-I have published a total of 10 papers in conferences/journals such as ACL, ACM MM, COLING, IEEE TMM, ICASSP, and so on, with 5 of them as the first author. And other papers are underreviewed.
-If you are interested in discussing or collaborating with me, please feel free to contact me.
+I have published 20 papers in conferences/journals such as ACL, ACM MM, COLING, IEEE TMM, ICASSP, and so on, with 5 of them as the first author. And other papers are under review.
+If you are interested in discussing or collaborating with me, please contact me.
 
 
 <br>
