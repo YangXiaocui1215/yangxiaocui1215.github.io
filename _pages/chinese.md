@@ -30,7 +30,45 @@ author_profile: true
 
 # 论文列表
 
+## 2025
+
+**MM-InstructEval: Zero-shot evaluation of (Multimodal) Large Language Models on multimodal reasoning tasks.**[Paper](https://www.sciencedirect.com/science/article/pii/S1566253525002775), [Code](https://github.com/declare-lab/MM-InstructEval).<br>
+<u>Xiaocui Yang</u>, Wenfang Wu, Shi Feng, Ming Wang, Daling Wang, Yang Li, Qi Sun, Yifei Zhang, Xiaoming Fu, Soujanya Poria.<br>
+*Information Fusion*, **SCI-Q1, Top**. <br>
+
+**Pixel-Level Reasoning Segmentation via Multi-turn Conversations.** [Paper](https://arxiv.org/pdf/2502.09447), [Code](https://github.com/ccccai239/PixelRIST).<br>
+Dexian Cai, <u>Xiaocui Yang</u>, Yongkang Liu, Daling Wang, Shi Feng, Yifei Zhang, Soujanya Poria.<br>
+*The 63st Annual Meeting of the Association for Computational Linguistics (**ACL 2025**)*, **CCF-A**. <br>
+
+**Muse: A Multimodal Conversational Recommendation Dataset with Scenario-Grounded User Profiles.** [Paper](https://arxiv.org/pdf/2412.18416), [Code](https://anonymous.4open.science/r/Muse-0086).<br>
+Zihan Wang, <u>Xiaocui Yang</u>, Yongkang Liu, Shi Feng, Daling Wang, Yifei Zhang.<br>
+*Findings of the Association for Computational Linguistics (2025) (**Finds of ACL 2025**)*, **CCF-A**. <br>
+
+**AnnaAgent: Dynamic Evolution Agent Systerm with Multi-Session Memory for Realistic Seeker Simulation.** (Paper coming). <br>
+Ming Wang, Peidong Wang, Lin Wu, <u>Xiaocui Yang</u>, Daling Wang, Shi Feng, Yuxin Chen, Bixuan Wang, Yifei Zhang. <br>
+*Findings of the Association for Computational Linguistics (2025) (**Finds of ACL 2025**)*, **CCF-A**. <br>
+
+**SemanticCamo: Jailbreaking Large Language Models through Semantic Camouflage.** (Paper coming). <br>
+Jihui Yan, <u>Xiaocui Yang</u>, Daling Wang, Shi Feng, Yifei Zhang, Yinzhi Zhao. <br>
+*Findings of the Association for Computational Linguistics (2025) (**Finds of ACL 2025**)*, **CCF-A**. <br>
+
+**Is mamba effective for time series forecasting?** [Paper](https://arxiv.org/pdf/2403.11144), [Code](https://github.com/wzhwzhwzh0921/S-D-Mamba). <br>
+Zihan Wang, Fanheng Kong, Shi Feng, Ming Wang, <u>Xiaocui Yang</u>, Han Zhao, Daling Wang, Yifei Zhang. <br>
+*Neurocomputing*, **JCR-Q1**. <br>
+
+**Generative Emotion Cause Explanation in Multimodal Conversations.**[Paper](https://arxiv.org/pdf/2411.02430), [Code](https://github.com/3222345200/ECEMdataset.git).<br>
+Lin Wang, <u>Xiaocui Yang</u>, Shi Feng, Daling Wang, Yifei Zhang.<br>
+*The 15th ACM International Conference on Multimedia Retrieval (ICMR 2025)*, **CCF-B**. <br>
+
+**TOOL-ED: Enhancing Empathetic Response Generation with the Tool Calling Capability of LLM.** [Paper](https://aclanthology.org/2025.coling-main.355.pdf), [Code](https://github.com/caohy123/EKTC).<br>
+Huiying Cao, Yiqun Zhang, Shi Feng, <u>Xiaocui Yang</u>, Daling Wang, Yifei Zhang.<br>
+*Proceedings of the 31st International Conference on Computational Linguistics (**COLING 2025**)*, **CCF-B**. <br>
+
 ## 2024
+
+**A Persona-Aware Chain-of-Thought Learning Framework for Personalized Dialogue Response Generation.** [Paper](https://link.springer.com/chapter/10.1007/978-981-97-9431-7_17).<br>
+Yameng Li, Shi Feng, Daling Wang, Yifei Zhang, <u>Xiaocui Yang</u>.<br>
+*CCF International Conference on Natural Language Processing and Chinese Computing(**NLPCC-2024**)*, **CCF-C**.<br>
 
 **Consistency Guided Knowledge Retrieval and Denoising in LLMs for Zero-shot Document-level Relation Triplet Extraction.**[Paper](https://arxiv.org/pdf/2401.13598), [Code](https://github.com/QiSun123/GenRDK).<br>
 Qi Sun, Kun Huang, <u>Xiaocui Yang</u>, Rong Tong , Kun Zhang and Soujanya Poria.<br>
