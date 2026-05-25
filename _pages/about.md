@@ -44,6 +44,19 @@ If you are interested in discussing or collaborating with me, please contact me.
 
 ## 2025
 
+**Advancing Referring Image Segmentation with Bidirectional Feature Enhancement and Adaptive Multimodal Fusion** [Paper](https://www.sciencedirect.com/science/article/pii/S0925231225025238).<br>
+Wen Qu, Xiao Li, **Xiaocui Yang**, Yonggong Ren. <br>
+*Neurocomputing*, **SCI-Q2**. <br>
+
+**Adaptive Persona Context Modulation for Personalized Emotional Support Conversation** [Paper](https://link.springer.com/chapter/10.1007/978-981-95-7081-2_24).<br>
+Hongkai Wang, **Xiaocui Yang📧**, Daling Wang, Shi Feng, Yifei Zhang. <br>
+*PRICAI 2025*, **CCF-C**. <br>
+
+**Language Models as Continuous Self-evolving Data Engineers.** [Paper](https://aclanthology.org/2025.emnlp-main.914.pdf), [Code](https://github.com/Control-derek/LANCE).<br>
+Peidong Wang, Ming Wang, Zhiming Ma, **Xiaocui Yang**, Shi Feng, Daling Wang, Yifei Zhang, Kaisong Song. <br>
+*EMNLP 2025*, **CCF-B**.<br>
+
+
 **MM-InstructEval: Zero-shot evaluation of (Multimodal) Large Language Models on multimodal reasoning tasks.**[Paper](https://www.sciencedirect.com/science/article/pii/S1566253525002775), [Code](https://github.com/declare-lab/MM-InstructEval).<br>
 <u>Xiaocui Yang</u>, Wenfang Wu, Shi Feng, Ming Wang, Daling Wang, Yang Li, Qi Sun, Yifei Zhang, Xiaoming Fu, Soujanya Poria.<br>
 *Information Fusion*, **SCI-Q1, Top**. <br>
