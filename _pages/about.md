@@ -151,7 +151,7 @@ Peidong Wang, Ming Wang, Zhiming Ma, **Xiaocui Yang**, Shi Feng, Daling Wang, Yi
 *Information Fusion*, **SCI-Q1, Top**. <br>
 
 **Pixel-Level Reasoning Segmentation via Multi-turn Conversations.** [Paper](https://arxiv.org/pdf/2502.09447), [Code](https://github.com/ccccai239/PixelRIST).<br>
-Dexian Cai, <u>Xiaocui Yang</u>, Yongkang Liu, Daling Wang, Shi Feng, Yifei Zhang, Soujanya Poria.<br>
+Dexian Cai<sup>1</sup>, **Xiaocui Yang<sup>1</sup>**, Yongkang Liu, Daling Wang, Shi Feng, Yifei Zhang, Soujanya Poria.<br>
 *The 63st Annual Meeting of the Association for Computational Linguistics (**ACL 2025**)*, **CCF-A**. <br>
 
 **Muse: A Multimodal Conversational Recommendation Dataset with Scenario-Grounded User Profiles.** [Paper](https://arxiv.org/pdf/2412.18416), [Code](https://anonymous.4open.science/r/Muse-0086).<br>
@@ -163,7 +163,7 @@ Ming Wang, Peidong Wang, Lin Wu, <u>Xiaocui Yang</u>, Daling Wang, Shi Feng, Yux
 *Findings of the Association for Computational Linguistics (2025) (**Finds of ACL 2025**)*, **CCF-A**. <br>
 
 **SemanticCamo: Jailbreaking Large Language Models through Semantic Camouflage.** (Paper coming). <br>
-Jihui Yan, <u>Xiaocui Yang</u>, Daling Wang, Shi Feng, Yifei Zhang, Yinzhi Zhao. <br>
+Jihui Yan, **Xiaocui Yang📧**, Daling Wang, Shi Feng, Yifei Zhang, Yinzhi Zhao. <br>
 *Findings of the Association for Computational Linguistics (2025) (**Finds of ACL 2025**)*, **CCF-A**. <br>
 
 **Is mamba effective for time series forecasting?** [Paper](https://arxiv.org/pdf/2403.11144), [Code](https://github.com/wzhwzhwzh0921/S-D-Mamba). <br>
