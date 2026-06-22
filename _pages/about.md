@@ -42,7 +42,13 @@ If you are interested in discussing or collaborating with me, please contact me.
 
 # Publications
 
+## 2026
+
 ## 2025
+
+**A Two-Stage Full Fine-Tuning and LLM Post-processing Framework for MCABSA** [Paper](https://dl.acm.org/doi/pdf/10.1145/3746027.3762072)<br>
+Deyuan Chen, **Xiaocui Yang**, Shi Feng, Zihan Cheng, Daling Wang, Yifei Zhang <br>
+*ACM MM 2025*, **CCF-A**. <br> 
 
 **Advancing Referring Image Segmentation with Bidirectional Feature Enhancement and Adaptive Multimodal Fusion** [Paper](https://www.sciencedirect.com/science/article/pii/S0925231225025238).<br>
 Wen Qu, Xiao Li, **Xiaocui Yang**, Yonggong Ren. <br>
@@ -69,7 +75,7 @@ Dexian Cai, <u>Xiaocui Yang</u>, Yongkang Liu, Daling Wang, Shi Feng, Yifei Zhan
 Zihan Wang, <u>Xiaocui Yang</u>, Yongkang Liu, Shi Feng, Daling Wang, Yifei Zhang.<br>
 *Findings of the Association for Computational Linguistics (2025) (**Finds of ACL 2025**)*, **CCF-A**. <br>
 
-**AnnaAgent: Dynamic Evolution Agent Systerm with Multi-Session Memory for Realistic Seeker Simulation.** (Paper coming). <br>
+**AnnaAgent: Dynamic Evolution Agent Systerm with Multi-Session Memory for Realistic Seeker Simulation.** [Paper](https://aclanthology.org/2025.findings-acl.745.pdf). <br>
 Ming Wang, Peidong Wang, Lin Wu, <u>Xiaocui Yang</u>, Daling Wang, Shi Feng, Yuxin Chen, Bixuan Wang, Yifei Zhang. <br>
 *Findings of the Association for Computational Linguistics (2025) (**Finds of ACL 2025**)*, **CCF-A**. <br>
 
