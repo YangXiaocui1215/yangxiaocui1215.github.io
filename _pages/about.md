@@ -43,6 +43,89 @@ If you are interested in discussing or collaborating with me, please contact me.
 # Publications
 
 ## 2026
+**Affective computing in the era of large language models: A survey from the nlp perspective**[Paper](https://arxiv.org/pdf/2408.04638)<br>
+Yiqun Zhang<sup>1</sup>, **Xiaocui Yang<sup>1</sup>**, Xingle Xu, Zeran Gao, Yijie Huang, Shiyi Mu, Shi Feng, Daling Wang, Yifei Zhang, Kaisong Song, Ge Yu. <br>
+*KBS 2026*, **SQI-1**. <br>
+
+**CIRAG: Construction-Integration Retrieval and Adaptive Generation for Multi-hop Question Answering**.[Paper](https://arxiv.org/pdf/2601.06799)<br>
+Zili Wei, Yilin Wang,  **Xiaocui Yang📧**, Zihan Wang, Weidong Bao, Shi Feng📧, Daling Wang, Yifei Zhang. <br>
+*ACL 2026*, **CCF-A**. <br>
+
+**Cat-MoD: Accelerating Multimodal Alignment via Caption Token Guided Asymmetric Mixture-of-Depths**. (Paper coming)<br>
+ Yijie Huang, **Xiaocui Yang📧**, Shi Feng📧, Wen Zhang, Kaisong Song, Daling Wang, Yifei Zhang. <br>
+*ACL 2026*, **CCF-A**. <br>
+
+**Resource-Limited Joint Multimodal Sentiment Reasoning and Classification via Chain-of-Thought Enhancement and Distillation**.[Paper](https://arxiv.org/abs/2508.05234).<br>
+ Haonan Shangguan, **Xiaocui Yang📧**, Shi Feng, Daling Wang, Yifei Zhang, Ge Yu, Feiliang Ren. <br>
+*Findings of ACL 2026*, **CCF-A**. <br>
+
+**JX4MEI: Multimodal Semantically-Enhanced LLM for Joint Multimodal Emotion-Intent Explanation and Classification**.(Paper coming).<br>
+Yijie Huang<sup>1</sup>, **Xiaocui Yang<sup>1</sup>**, Shi Feng📧, Daling Wang, Yifei Zhang, Ning Yuan, Zhuoyue Jia, Wen Zhang. <br>
+*Findings of ACL 2026*, **CCF-A**. <br>
+
+**DR-HM: Distill-then-Reinforce Training with Cognition-Aware Data Synthesis for Harmful Meme Detection**.(Paper coming).<br>
+Zihan Cheng, Jianxiang Ma, **Xiaocui Yang📧**, Peidong Wang, Wen Zhang, Shi Feng📧, Daling Wang, Yifei Zhang, Mingfu Zhang. <br>
+*Findings of ACL 2026*, **CCF-A**. <br>
+
+
+**ES4R: Speech Encoding Based on Prepositive Affective Modeling for Empathetic Response Generation** [Paper](https://arxiv.org/pdf/2601.16225).<br>
+ Zhuoyue Gao, Xiaohui Wang, **Xiaocui Yang**, Wen Zhang, Daling Wang, Shi Feng, Yifei Zhang<br>
+*ACL 2026*, **CCF-A**. <br>
+
+**SAFE-QAQ: End-to-End Slow-Thinking Audio-Text Fraud Detection via Reinforcement Learning**[Paper](https://arxiv.org/abs/2601.01392). <br>
+Peidong Wang, Zhiming Ma, Xin Dai, Yongkang Liu, Shi Feng, **Xiaocui Yang**, Wenxing Hu, Zhihao Wang, Mingjun Pan, Li Yuan, Daling Wang. <br>
+*ACL 2026*, **CCF-A**. <br>
+
+**GenPT: Beyond Self-Report for Reliable LLM Psychometrics via Generative Projective Testing**[Paper](https://arxiv.org/abs/2606.00860).<br>
+Ming Wang, Shuang Wu, Bixuan Wang, Lu Lin, Yuxin Chen, **Xiaocui Yang**, Daling Wang, Shi Feng, Yifei Zhang, Yufan Sun.<br>
+*ACL 2026*, **CCF-A**. <br>
+
+**Nature-Inspired Population-Based Evolution of Large Language Models**[Paper](https://arxiv.org/abs/2503.01155).<br>
+Yiqun Zhang, Peng Ye, **Xiaocui Yang**, Shi Feng, Shufei Zhang, Lei Bai, Wanli Ouyang, Shuyue Hu.<br>
+*ACL 2026*, **CCF-A**. <br>
+
+**MTRouter: Cost-Aware Multi-Turn LLM Routing  with History–Model Joint Embeddings**[Paper](https://arxiv.org/pdf/2604.23530).<br>
+Yiqun Zhang, Hao Li, Zihan Wang, Shi Feng, **Xiaocui Yang**, Daling Wang, Bo Zhang, Lei Bai, Shuyue Hu.<br>
+*ACL 2026*, **CCF-A**. <br>
+
+**Why Do More Experts Fail? A Theoretical Analysis of Model Mergings**[Paper](https://arxiv.org/abs/2505.21226).<br>
+Zijing Wang, Xingle Xu, Yongkang Liu, Yiqun Zhang, Peiqin Lin, Shi Feng, **Xiaocui Yang**, Daling Wang, Hinrich Schütze.<br>
+*ACL 2026*, **CCF-A**. <br>
+
+
+
+**DEEPMED: Building a Medical DeepResearch Agent via Multi-hop Med-Search Data and Turn-Controlled Agentic Training & Inference**.[Paper](https://arxiv.org/abs/2601.18496).<br>
+Zihan Wang, Hao Wang, Shi Feng, **Xiaocui Yang**, Daling Wang, Yiqun Zhang, Jinghao Lin, Haihua Yang, Xiaozhong Ji. <br>
+*Findings of ACL 2026*, **CCF-A**. <br>
+
+**PlaM: Training-Free Plateau-Guided Model Merging for Better Visual Grounding in MLLMs**.[Paper](https://arxiv.org/abs/2601.07645).<br>
+Zijing Wang, Yongkang Liu, Mingyang Wang, Ercong Nie, Deyuan Chen, Zhengjie Zhao, Shi Feng, Daling Wang, **Xiaocui Yang**, Yifei Zhang, Hinrich Schütze. .<br>
+*Findings of ACL 2026*, **CCF-A**. <br>
+
+**MoLAN: A Unified Modality-Aware Noise Dynamic Editing Framework for Multimodal Sentiment Analysis**.[Paper](https://arxiv.org/abs/2508.09145).<br>
+Xingle Xu, Yongkang Liu, Dexian Cai, Shi Feng, **Xiaocui Yang**, Daling Wang, Yifei Zhang.<br>
+*Findings of ACL 2026*, **CCF-A**. <br>
+
+**NEAT: Neuron-Based Early Exit for Large Reasoning Models**.[Paper](https://arxiv.org/abs/2601.07645).<br>
+Kang Liu, Yongkang Liu, **Xiaocui Yang**, Peidong Wang, Wen Zhang, Shi Feng, Yifei Zhang, Daling Wang.<br>
+*Findings of ACL 2026*, **CCF-A**. <br>
+
+**RATION: Entropy-Driven Task-Adaptive Visual Attention Allocation Framework for Multimodal Reasoning**.(Paper coming).<br>
+Xingle Xu, Fanheng Kong, Dexian Cai, Shi Feng, **Xiaocui Yang**, Daling Wang, Yifei Zhang.<br>
+*Findings of ACL 2026*, **CCF-A**. <br>
+
+
+**From Parameter Dynamics to Risk Scoring: Quantifying Sample-Level Safety Degradation in LLM Fine-tuning**[Paper](https://arxiv.org/abs/2605.04572) <br>
+Xiao Wang, Yifei Zhang, YongKang Liu, Xiaocui Yang, Zihan Wang, Shi Feng, Daling Wang. <br>
+*ICML 2026*, **CCF-A**. <br>
+
+**PRISM: Prosody-Integrated Multi-Agent Reasoning Framework for Empathetic Spoken Dialogue** [Paper](http://arxiv.org/abs/2606.12902).<br>
+Wen Zhang, **Xiaocui Yang**, Zhuoyue Gao, Shi Feng, Daling Wang, Yifei Zhang. <br>
+*Interspeech 2026*, **CCF-B**. <br>
+
+**Can llms beat humans in debating? a dynamic multi-agent framework for competitive debate** [Paper](https://arxiv.org/pdf/2408.04472).<br>
+Yiqun Zhang, **Xiaocui Yang**, Shi Feng, Daling Wang, Yifei Zhang, Kaisong Song. <br>
+*ICASSP 2026*, **CCF-B**. <br>
 
 ## 2025
 
