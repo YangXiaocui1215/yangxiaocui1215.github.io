@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am Xiaocui Yang (杨晓翠), a lecturer at [School of Computer Science and Engineering, Northeastern University (NEU), China](https://www.neu.edu.cn/). 
+I am Xiaocui Yang (杨晓翠).
 I am a member of NEU Data Mining group. NEU DM group belongs to Data Science and Big Data Technology Group led by Professor Ge Yu（于戈）.
 
 ## Lab
@@ -34,7 +34,7 @@ I am a member of NEU Data Mining group. NEU DM group belongs to Data Science and
 
 My research focuses on Natural Language Processing, Affective Computing, Multimodal Sentiment Analysis, ...
 
-I have published 20 papers in conferences/journals such as ACL, ACM MM, COLING, IEEE TMM, ICASSP, and so on, with 5 of them as the first author. And other papers are under review.
+I have published more than 30 papers in conferences/journals such as ACL, ACM MM, COLING, IEEE TMM, ICASSP, and so on, with 5 of them as the first author. And other papers are under review.
 If you are interested in discussing or collaborating with me, please contact me.
 
 
